@@ -1,3 +1,43 @@
-z="
-";Dz='\033';qz='G RE';iBz='r"$m';CCz='EK K';nBz='il';WBz='GIN"';DBz=' LIH';rBz='1 ]';Hz='u';dBz='_"';Az='clea';LCz='t';FCz='FB"';gz='[33;';MBz='1"$m';GCz='cd V';tBz='" BE';rz='SULT';jz='toil';SBz='CURE';XBz='3"$m';VCz='E LE';Uz='[36;';wBz='ALAH';QCz=' FB"';uBz='RIKU';Gz='#bir';wz='SIL ';yBz='IL P';NBz='e"]"';jBz='read';ICz='php ';Cz='bi='\''';fBz='"$i"';uz=' $cy';JCz='hasi';KBz='"["$';az='ah';HBz='____';Sz='rple';XCz='cd M';Lz='m'\'' #';hz='#kun';dz='#put';pBz=' $pi';iz='ing';qBz='l = ';xBz=' HAS';ECz='NAN ';oBz='if [';Pz='3[35';Wz='n';WCz='GEND';tz='echo';nz=' "WE';TBz='"';lBz='╰─>>';fz='ku='\''';FBz=' $pu';EBz='AT?"';NCz='2 ]';mz='ture';gBz='root';TCz='NG M';yz=' YAN';HCz='1';Rz=' #pu';UBz='2"$m';cBz='"___';PCz='OGIN';Bz='r';Jz='033[';KCz='l.tx';Tz='cy='\''';aBz='LEGE';kBz=' -p"';Zz='#mer';OCz='EK L';PBz=' FAC';LBz='pur"';Fz='1m'\'' ';mBz=' " p';Mz='ijo';sz='S"';OBz='$pu"';ez='ih';UCz='OBIL';YCz='L';RBz='K SE';Oz=''\''\03';eBz='"╭─[';CBz='KAMU';QBz='EBOO';xz='MANA';BCz='NG C';Iz='i='\''\';DCz='EAMA';Nz='pur=';ABz='G IN';sBz='then';oz='B PH';BBz='GIN ';YBz=' MOB';pz='ISIN';ZBz='ILE ';Ez='[34;';JBz=' $me';Kz='32;1';MCz='fi';SCz='3 ]';ACz='HISI';bz='pu='\''';Yz='[31;';kz='et -';lz='f fu';VBz='K LO';cz='[37;';Qz=';1m'\''';Xz='me='\''';bBz='NDS"';Vz='#cya';vz='" HA';RCz='2';hBz='@use';IBz='__"';GBz='r"__';vBz='T AD';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Dz$Uz$Fz$Vz$Wz$z$Xz$Dz$Yz$Fz$Zz$az$z$bz$Dz$cz$Fz$dz$ez$z$fz$Dz$gz$Fz$hz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$z$tz$FBz$GBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$IBz$z$tz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$tz$JBz$KBz$LBz$UBz$NBz$OBz$PBz$QBz$VBz$WBz$z$tz$JBz$KBz$LBz$XBz$NBz$OBz$YBz$ZBz$aBz$bBz$z$tz$JBz$cBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$dBz$z$tz$JBz$eBz$fBz$gBz$hBz$iBz$NBz$z$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$rBz$z$sBz$z$tz$JBz$cBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$dBz$z$tz$FBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$z$GCz$HCz$z$ICz$JCz$KCz$LCz$z$tz$z$MCz$z$oBz$pBz$qBz$NCz$z$sBz$z$tz$JBz$cBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$dBz$z$tz$FBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$OCz$PCz$QCz$z$tz$z$tz$z$GCz$RCz$z$ICz$JCz$KCz$LCz$z$tz$z$tz$z$MCz$z$oBz$pBz$qBz$SCz$z$sBz$z$tz$JBz$cBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$HBz$dBz$z$tz$FBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$TCz$UCz$VCz$WCz$sz$z$tz$z$tz$z$XCz$YCz$z$ICz$JCz$KCz$LCz$z$tz$z$tz$z$MCz"
+clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+
+toilet -f future "WEB PHISING RESULTS"
+
+echo $cy" HASIL MANA YANG INGIN KAMU LIHAT?"
+echo $pur"____________________________________"
+echo $me"["$pur"1"$me"]"$pu" FACEBOOK SECURE"
+echo $me"["$pur"2"$me"]"$pu" FACEBOOK LOGIN"
+echo $me"["$pur"3"$me"]"$pu" MOBILE LEGENDS"
+echo $me"____________________________________"
+echo $me"╭─["$i"root@user"$me"]"
+read -p"╰─>> " pil
+
+if [ $pil = 1 ]; then
+    echo $me"____________________________________"
+    echo $pu" BERIKUT ADALAH HASIL PHISING CEK KEAMANAN FB"
+    cd V1
+    php hasil.txt
+    echo "\n"
+fi
+
+if [ $pil = 2 ]; then
+    echo $me"____________________________________"
+    echo $pu" BERIKUT ADALAH HASIL PHISING CEK LOGIN FB\n\n\n"
+    cd V2
+    php hasil.txt
+    echo "\n\n"
+fi
+
+if [ $pil = 3 ]; then
+    echo $me"____________________________________"
+    echo $pu" BERIKUT ADALAH HASIL PHISING MOBILE LEGENDS\n\n\n"
+    cd ML
+    php hasil.txt
+    echo "\n\n"
+fi

